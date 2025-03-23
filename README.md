@@ -65,7 +65,6 @@
 
 ## 🏗️ Feature Engineering
   - Data Cleaning (handling missing values, duplicates)
-  - Encoding categorical features(Label Encoding)
   - Scaling numerical features(MinMaxScaler)
 
 ## 🤖 Machine Learning Models Implemented
@@ -78,6 +77,35 @@
   - Extract interaction terms between variables (e.g., acidity and alcohol content).
 
 
-##
+# 📌4. Credit Card Dataset & Project Overview
+  - Filename: credit_card_fraud_dataset.csv
+  - Objective: Explore fraudulent and non-fraudulent transactions and identify key indicators of 
+    fraud.
 
-   
+## 📊 Exploratory Data Analysis (EDA)
+   - Class distribution analysis (fraud vs non-fraud)
+   - PCA (Principal Component Analysis) for dimensionality reduction
+   - Correlation between features
+   - Fraud transaction trends and patterns
+
+## 🏗️ Feature Engineering
+  - Data Cleaning (handling missing values, duplicates)
+  - Encoding categorical features(Label Encoding)
+  - Scaling numerical features(StandardScaler)
+
+## 🤖 Machine Learning Models Implemented
+  -  **Logistic Regression** 
+  -  **Random Forest Classifier**
+  -  **XGBClassifier**
+
+## 🔮 Future Enhancements
+  - Apply anomaly detection techniques such as Isolation Forest and Autoencoders.
+  - Use time-series analysis to detect evolving fraud trends.
+  - Improve feature selection and engineering for better classification performance.
+  - Develop an interactive dashboard for real-time fraud monitoring.
+
+# 🛠 Technologies Used
+  - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)
+  - **Jupyter Notebook** for interactive analysis
+  - **Google Collab** for traffic accident EDA
+
