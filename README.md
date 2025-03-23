@@ -8,6 +8,7 @@
      cases.
     
 ## 📊 Exploratory Data Analysis (EDA)
+  -**EDA Notebook:** [Breast_cancer.ipynb](EDA_BREAST_CANCER.ipynb)
   - Statistical summaries of dataset features
   - Data visualization using histograms, pair plots, and correlation heatmaps
   - Feature selection and preprocessing
@@ -34,7 +35,7 @@
     location, and cause.
 
 ## 📊 Exploratory Data Analysis (EDA)
- -- **EDA Notebook:** [Open in Colab](https://colab.research.google.com/drive/13m3MmWTOtcj4l0XxeiUfj8uAL-EdRLpD#)
+ -**EDA Notebook:** [Open in Colab](https://colab.research.google.com/drive/13m3MmWTOtcj4l0XxeiUfj8uAL-EdRLpD#)
  - Statistical summaries of dataset features
  - Data visualization using histograms, pair plots, box plots, and correlation heatmaps
  - Feature selection and preprocessing
