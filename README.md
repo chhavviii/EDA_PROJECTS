@@ -115,5 +115,17 @@
 
 
 # How To Use
- - Clone this repository:
-   `git clone [https://github.com/yourusername/EDA-Projects](https://github.com/chhavviii/EDA_PROJECTS).git`
+ 1. Clone this repository:
+   `git clone https://github.com/chhavviii/EDA_PROJECTS.git`
+ 2. Navigate to the repository:
+    `cd EDA-Projects`
+3. Open and run the Jupyter Notebook and google colab notebook on each dataset to explore the 
+   analysis.
+
+# Dependencies 
+ `pip install pandas`
+ `pip install numpy`
+ `pip install matplotlib`
+ `pip install seaborn`
+ `pip install scikit-learn`
+
