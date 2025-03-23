@@ -116,4 +116,4 @@
 
 # How To Use
  - Clone this repository:
-   git clone [https://github.com/yourusername/EDA-Projects](https://github.com/chhavviii/EDA_PROJECTS).git
+   `git clone [https://github.com/yourusername/EDA-Projects](https://github.com/chhavviii/EDA_PROJECTS).git`
