@@ -114,6 +114,7 @@
    - Accuracy Score
    - Classification Report
    - Confusion Matrix
+     
  ## ** For Regression Model **
    - Mean Squared Error
    -  R² score
