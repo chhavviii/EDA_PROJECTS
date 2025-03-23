@@ -108,11 +108,20 @@
   - Improve feature selection and engineering for better classification performance.
   - Develop an interactive dashboard for real-time fraud monitoring.
 
+
+# Performance Evaluation 
+ ## **For Classification Models**
+   - Accuracy Score
+   - Classification Report
+   - Confusion Matrix
+ ## ** For Regression Model **
+   - Mean Squared Error
+   -  R² score
+
 # 🛠 Technologies Used
   - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost)
   - **Jupyter Notebook** for interactive analysis
   - **Google Collab** for traffic accident EDA
-
 
 # How To Use
  1. Clone this repository:
