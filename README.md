@@ -3,7 +3,7 @@
 ## This repository contains various Exploratory Data Analysis (EDA) projects on different datasets. The goal of these analyses is to extract insights, detect patterns, and understand the underlying structure of the data. Each dataset has been processed using statistical summaries, visualizations, and feature analysis techniques.
 
 # 📌1. Breast Cancer Dataset & Project Overview
-  - Filename: breast-cancer.csv
+  - Filename:-[breast-cancer.csv](breast-cancer.csv)
   - Objective: Analyze the characteristics of tumors and identify patterns in malignant and benign 
      cases.
     
@@ -55,7 +55,7 @@
 
 
  # 📌3. Wine Quality Dataset & Project Overview
-   - Filename: WineQT.csv
+   - Filename: [WineQT.csv](WineQT.csv)
    - Objective: Analyze the chemical composition of wine and its relationship with quality  
      ratings.
 
@@ -78,7 +78,7 @@
 
 
 # 📌4. Credit Card Dataset & Project Overview
-  - Filename: credit_card_fraud_dataset.csv
+  - Filename: [credit_card_fraud_dataset.csv]( credit_card_fraud_dataset.csv)
   - Objective: Explore fraudulent and non-fraudulent transactions and identify key indicators of 
     fraud.
 
