@@ -62,6 +62,7 @@
      ratings.
 
 ## 📊 Exploratory Data Analysis (EDA)
+ -**EDA Notebook:** [Wine_Quality.ipynb](EDA_WINE.ipynb)
  - Statistical summaries of dataset features.
  - Data visualization using histograms, pair plots, box plots, and correlation heatmaps.
 
@@ -85,6 +86,7 @@
     fraud.
 
 ## 📊 Exploratory Data Analysis (EDA)
+   -**EDA Notebook:** [Credit_Card.ipynb](EDA_CC.ipynb)
    - Class distribution analysis (fraud vs non-fraud)
    - PCA (Principal Component Analysis) for dimensionality reduction
    - Correlation between features
